@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/dedie/.android/build-cache/6faded0a17c5cd0199353432c7e96f10dbcc4429/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="12032271e6be735e811ad529cb08ff066c381640">
+        <dex dex="/media/dedie/KULIAH/Project/KepoKu/app/build/intermediates/pre-dexed/debug/classes_e0dd9e4c3290ce7f9c4639aff8150247b3ec4349.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dedie/.android/build-cache/57d07fbd20a0f013e1cb7d83dfe51fc3c1e908c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="/media/dedie/KULIAH/Project/KepoKu/app/build/intermediates/pre-dexed/debug/classes_cd3ba8129a51e97dd8245a01ad664b2aec525098.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dedie/.android/build-cache/c2fa9af075ad6653ff4aab5838d6366c98a504ab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="25f55515117e14a658120a7b01a9ea5170409db4">
+        <dex dex="/media/dedie/KULIAH/Project/KepoKu/app/build/intermediates/pre-dexed/debug/classes_b3348c84cd002785a1b0a7f57857d13b6f3d8bcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dedie/.android/build-cache/39bef86770204a4d46e1546ed44bcb759931d5b7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/media/dedie/KULIAH/Project/KepoKu/app/build/intermediates/pre-dexed/debug/classes_855f301b05702909bd29ff07446efe84fb0d8a17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dedie/.android/build-cache/943734c4de3ae13007051fef266a2f94672790b1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/media/dedie/KULIAH/Project/KepoKu/app/build/intermediates/pre-dexed/debug/classes_291f47223a78c44aefb5672fc0caaf47869c0623.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dedie/.android/build-cache/c90a61775f2215d51928040ac6ccc246ef01b0e0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/media/dedie/KULIAH/Project/KepoKu/app/build/intermediates/pre-dexed/debug/classes_af4400c0669e553e733f53669b8b09361d3e631e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dedie/.android/build-cache/ab77678ca780282f388da8551fe5f50191bc146d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/media/dedie/KULIAH/Project/KepoKu/app/build/intermediates/pre-dexed/debug/classes_4f89c5b5e88c019e96e2795bc796ff782379f25e.jar" />
+    </item>
+
+</items>

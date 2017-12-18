@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "133096871190",
+    "firebase_url": "https://shc-kepoku12.firebaseio.com",
+    "project_id": "shc-kepoku12",
+    "storage_bucket": "shc-kepoku12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133096871190:android:fea22b38c83447bd",
+        "android_client_info": {
+          "package_name": "superhumancrew.com.kepoku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133096871190-59l1tbgnt7s4pskc79t8fl23ij7m34n2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "superhumancrew.com.kepoku",
+            "certificate_hash": "ef36467956f27c2f5eee87f27c6412303322fcdd"
+          }
+        },
+        {
+          "client_id": "133096871190-7fpdls7euanro4snevi7a514pvj025vi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMOCHxUuKO0b1F04593MgKxQYeu6hLlKQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133096871190-7fpdls7euanro4snevi7a514pvj025vi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
